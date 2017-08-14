@@ -1,0 +1,16 @@
+[
+{
+  "modid": "examplemod2",
+  "name": "Example Mod for Class",
+  "description": "This is for learning Java",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["NYInspires"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
